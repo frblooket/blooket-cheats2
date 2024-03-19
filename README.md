@@ -1,9 +1,4 @@
-Hi this is michael i'm a young coder of the age of 13 and i hope that these script's i've made really help you guys enjoy and do not worry i contacted 05Konz and mineshraft-2 for permission to build my script close to thier's and i put thier minshrafs's discord in the hack and gave credit to 05Konz but this project took me about 5 months to complete so i hope that you all really enjoy it and heres my story shortend up all true Certainly! Feel free to copy the text below:
-
----
-
-**Michael's Code Symphony**
-
+HI IM MICHAEL this is my story.
 ---
 
 In the dimly lit chaos of my cluttered bedroom, where posters of superheroes had no place, I sat ensconced in my throne—a **Xraiser Gamer Chair**. Its contours hugged my frame, and its lumbar support whispered promises of marathon coding sessions. The room smelled of ambition and yesterday's pizza crusts.

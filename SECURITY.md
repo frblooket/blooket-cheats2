@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x: no try to hack me               |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.1.x   | :white_check_mark: making sure i know about importend issues |
+| 5.0.x   | :x:   wasting my time im working on more code             |
+| 4.0.x   | :white_check_mark: asking to repoast my code |
+| < 4.0   | :x: trying to bribe me                |
 
 ## Reporting a Vulnerability
 
